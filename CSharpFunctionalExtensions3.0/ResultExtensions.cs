@@ -158,5 +158,15 @@ namespace CSharpFunctionalExtensions
 
             return result;
         }
+
+        public static Result OnFailure(this Result result, Action<string> action)
+        {
+            if (result.IsFailure)
+            {
+                action(result.Error);
+            }
+
+            return result;
+        }
     }
 }
