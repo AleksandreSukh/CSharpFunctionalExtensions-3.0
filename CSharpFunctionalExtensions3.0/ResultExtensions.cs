@@ -1,5 +1,5 @@
 ﻿using System;
-using ALCS.Net3MigrationHelper.Delegates;
+using Net3Migrations.Delegates;
 
 namespace CSharpFunctionalExtensions
 {

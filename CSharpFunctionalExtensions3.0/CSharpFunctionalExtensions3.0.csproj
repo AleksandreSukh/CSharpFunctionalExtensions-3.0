@@ -36,9 +36,8 @@
     <AssemblyOriginatorKeyFile>TempKey.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ALCS.Net3MigrationHelper, Version=2016.12.19.1, Culture=neutral, PublicKeyToken=3e2452ce0d367ac8, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>Lib\ALCS.Net3MigrationHelper.dll</HintPath>
+    <Reference Include="Net3Migrations">
+      <HintPath>..\..\WindowsProcessExtensions\WinProcessExtensions\Lib\Net3Migrations.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -58,13 +57,11 @@
     <Compile Include="ValueObject.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Lib\ALCS.Net3MigrationHelper.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
     <None Include="TempKey.snk" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Lib\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
