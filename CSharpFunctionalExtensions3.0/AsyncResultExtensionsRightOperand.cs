@@ -1,7 +1,6 @@
-//using System;
-//using System.Threading.Tasks;
+//using Net3Migrations.Delegates;
 
-//namespace CSharpFunctionalExtensions
+//namespace CSharpFunctionalExtensions3_0
 //{
 //    /// <summary>
 //    ///     Extentions for async operations where the task appears in the right operand only

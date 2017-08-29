@@ -1,8 +1,4 @@
-//using System;
-//using System.Threading.Tasks;
-
-
-//namespace CSharpFunctionalExtensions
+//namespace CSharpFunctionalExtensions3_0
 //{
 //    /// <summary>
 //    /// Extentions for async operations where the task appears in the both operands

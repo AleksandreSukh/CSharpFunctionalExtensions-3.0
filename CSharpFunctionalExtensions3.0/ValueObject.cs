@@ -1,4 +1,4 @@
-﻿namespace CSharpFunctionalExtensions
+﻿namespace CSharpFunctionalExtensions3_0
 {
     public abstract class ValueObject<T>
         where T : ValueObject<T>

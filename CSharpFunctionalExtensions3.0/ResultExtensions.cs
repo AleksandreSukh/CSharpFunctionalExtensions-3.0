@@ -1,7 +1,7 @@
 ﻿using System;
 using Net3Migrations.Delegates;
 
-namespace CSharpFunctionalExtensions
+namespace CSharpFunctionalExtensions3_0
 {
     public static class ResultExtensions
     {

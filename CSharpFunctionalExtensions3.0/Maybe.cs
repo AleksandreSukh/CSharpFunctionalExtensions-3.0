@@ -1,7 +1,6 @@
 ﻿using System;
 
-
-namespace CSharpFunctionalExtensions
+namespace CSharpFunctionalExtensions3_0
 {
     public struct Maybe<T> : IEquatable<Maybe<T>>
         where T : class

@@ -7,7 +7,7 @@
     <ProjectGuid>{03FD663C-E242-4046-B14F-5B0FA419E9B4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CSharpFunctionalExtensions3._0</RootNamespace>
+    <RootNamespace>CSharpFunctionalExtensions3_0</RootNamespace>
     <AssemblyName>CSharpFunctionalExtensions3.0</AssemblyName>
     <TargetFrameworkVersion>v3.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

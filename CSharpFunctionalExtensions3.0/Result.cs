@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 
-
-namespace CSharpFunctionalExtensions
+namespace CSharpFunctionalExtensions3_0
 {
     internal sealed class ResultCommonLogic
     {

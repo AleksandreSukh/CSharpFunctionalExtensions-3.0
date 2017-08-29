@@ -1,7 +1,4 @@
-//using System.Threading.Tasks;
-
-
-//namespace CSharpFunctionalExtensions
+//namespace CSharpFunctionalExtensions3_0
 //{
 //    public static class AsyncMaybeExtensions
 //    {
